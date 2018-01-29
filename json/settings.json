@@ -1,0 +1,8 @@
+{
+    "mode": "video",
+    "resource": "http://192.168.1.111/operator/get_video.cgi?channel=1",
+    "db": "defaultdb.xml",
+    "name_conf": "namedb.xml",
+    "facepost_ip": "172.18.0.3",
+    "facepost_port": 8998
+}
